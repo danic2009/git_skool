@@ -12,3 +12,4 @@ def histogram(string):
 text = input('Введите текс: ').lower()
 hist = histogram(text)
 print(hist)
+asdfadsfasdf
